@@ -12,7 +12,7 @@ import datetime
 import psutil
 
 # import struct
-ADDRESS = "f4:12:fa:c0:8b:f1"
+ADDRESS = "00:00:00:00:00:00"
 
 SERVICE_UUID = '4fafc201-1fb5-459e-8fcc-c5c9c331914b'
 infoCHARACTERISTIC_UUID = '67360b78-8c45-11ed-a1eb-0242ac120002'
